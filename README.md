@@ -23,6 +23,7 @@ torch >= 1.7.0
 opencv-python >= 4.5.1.48
 matplotlib >= 3.4.1
 numpy >= 1.21.3
+timm >= 0.4.12
 ```
 
 
